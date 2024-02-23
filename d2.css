@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    background-color:aqua;
+    text-decoration-color: aqua;
+}
+ div texto {
+    text-align: center;
+    align-items: center;
+
+}
+div h2{
+    background-color: gray;
+    color: blue;
+}
+div h2{
+    align-items: left;
+}
